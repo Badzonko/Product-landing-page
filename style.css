@@ -1,0 +1,24 @@
+#header-img{
+    height: 50px;
+    width:50px;
+}
+#geader-img{
+    height: 150px;
+    width:150px;
+}
+#naslov{
+    margin-top:100px;
+}
+#video{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.produkt{
+    height: 350px;
+    width:400px;
+    border:2px solid black;
+}
+h1{
+    background-color: grey;
+}
